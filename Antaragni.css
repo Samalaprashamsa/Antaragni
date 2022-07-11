@@ -1,0 +1,266 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main{
+	width: 100%;
+	background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5),
+	 rgba(0, 0, 0, 0.5)), url(background-image-antaragni.jpg);
+    background-attachment: fixed;
+}
+
+.container{
+	width: 100%;
+	display: flex;
+}
+
+.logo{
+	height: 50px;
+	width: 50px;
+	padding-top: 20px;
+	padding-left: 70px;
+	position: fixed;
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+	padding-top: 25px;
+	display: inline-block;
+	padding-left: 400px;
+}
+h1 span{
+	color: #a31029;
+}
+
+.content{
+	padding-left: 100px;
+	display: inline-block;
+	margin-top: 70px;
+}
+
+.card{
+	height: 400px;
+	width:370px;
+	background-size: cover;
+	display: inline-block;
+	margin: 30px;
+	box-sizing: border-box;
+    cursor: pointer;
+}
+
+.card:hover{
+	transform:scale(1.1);
+	transition: 0.3s;
+}
+
+.card13{
+	margin-left: 200px;
+}
+
+button{
+	height: 50px;
+	width: 150px;
+	margin-top: 30px;
+	margin-left: 200px;
+	display: inline-block;
+	cursor: pointer;
+	background-color: white;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	border-radius: 15px;
+	position: fixed;
+}
+
+img{
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+	height: 400px;
+	width: 370px;
+}
+//{.card1{
+	background-image: url(dance.jpg);
+}
+.card2{
+	background-image: url(ritambhara.jpg);
+
+}
+.card3{
+	background-image: url(mrm.jpg);
+
+}
+.card4{
+	background-image: url(drams.jpg);
+
+}
+.card5{
+	background-image: url(alumni.jpg);
+
+}
+.card6{
+	background-image: url(music.jpg);
+
+}
+.card7{
+	background-image: url(fnp.jpg);
+
+}
+.card8{
+	background-image: url(finearts.jpg);
+
+}
+.card9{
+	background-image: url(ele.jpg);
+
+}
+.card10{
+	background-image: url(hle.jpg);
+
+}
+.card11{
+	background-image: url(quiz.jpg);
+
+}
+.card12{
+	background-image: url(comickaun.jpg);
+
+}
+.card13{
+	background-image: url(prodigy.jpg);
+	margin-left: 230px;
+
+}
+.card14{
+	background-image: url(warfire.jpg);
+	//margin-left: 200px;
+
+}
+}
